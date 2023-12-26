@@ -1,4 +1,5 @@
 optout@experian.com
+CCCreditServiceCompliance@exchange.experian.com
 privacy@transunion.com
 privacy@corelogic.com
 privacy@maxmind.com
@@ -7,8 +8,6 @@ licensing@xome.com
 privacy@spokeo.com
 privacy@hellofyllo.com
 privacy@seekout.io
-yoko@zenrin.com
-Customerservice@searchpeoplefree.com
 privacy@scanbuy.com
 legal@bizjournals.com
 privacyteam@data-axle.com
