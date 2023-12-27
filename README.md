@@ -1,4 +1,4 @@
-Privacy Rights Requests is a Windows application designed to automate the opt-out process from over an unlimited amount of DataBrokers based in the US and Europe. The application aims to empower users' privacy rights by streamlining GDPR (General Data Protection Regulation) and CCPA (California Consumer Privacy Act) compliance requests.
+Privacy Rights Requests is a Windows application designed to automate the opt-out process from over an unlimited amount of DataBrokers based in the US and Europe. The application aims to empower users' privacy rights by streamlining GDPR (General Data Protection Regulation), (California Consumer Privacy Act) and some other US compliance requests.
 
 Features:
 
@@ -9,7 +9,8 @@ Features:
 Usage:
 
     Data Broker List Preparation: Before using the application, ensure to clear the lists of US and EU Data Brokers if you wish to add new Data Brokers.
-    Opt-Out Process: After sending out requests, you might need to respond to follow-up emails or complete online requests on certain websites to finalize data deletion. This process can vary from a few seconds to several months.
+    Opt-Out Process: After sending out requests, you might need to respond to follow-up emails or complete online requests on certain websites to finalize data deletion. 
+    This process can vary from a few seconds to several months.
     Responsible Use: Please use this program responsibly. Avoid abusing the system or spamming Data Brokers, as this could degrade service quality for everyone.
 
 Important Notes:
